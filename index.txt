@@ -1,10 +1,10 @@
-Homeverse - Find your dream house
+Homecentre - Find your dream house
 
 
 # HEADER
 
 <ion-icon name="mail-outline"></ion-icon>
-info@homeverse.com
+info@homecentre.com
 
 <ion-icon name="location-outline"></ion-icon>
 15/A, Nest Tower, NYC
@@ -16,7 +16,7 @@ info@homeverse.com
 
 Add Listing
 
-alt = Homeverse logo
+alt = Homecentre logo
 
 aria-label = Close Menu
 <ion-icon name="close-outline"></ion-icon>
@@ -51,7 +51,7 @@ Menu
 <ion-icon name="home"></ion-icon>
 Real Estate Agency
 
-Find Your Dream House By Us
+Find Your Dream House By Homecentre
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore.
 
